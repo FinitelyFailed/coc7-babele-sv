@@ -37,11 +37,87 @@
 * Förslag och feedback tas tacksamt emot. Använd vänligen "Issue-systemet" i Github.
 ## Credits  
 
+* Uppdateringen av HavlockVs spelsystem hanteras sedan 0.6.4 av Miskatonic Investigative Society.  
 * Översättning av Krister Persson (Rangertheman).
 * Stort tack (_muchas gracias_) till *lozalojo* för all hjälp, vägledning och samarbete.
 * *Babele* är en modul skapad av *Simone Ricciardi*.
 
 ## Versioner
+
+Version 0.74.1
+
+* updated to HavlockV's version 0.7.4
+
+Version 0.73.1
+
+* updated to HavlockV's version 0.7.3
+
+Version 0.72.1
+
+* updated to HavlockV's version 0.7.2
+
+version 0.69.1
+
+* updated to HavlockV's version 0.6.9
+
+version 0.68.1
+
+* updated to HavlockV's version 0.6.8
+
+version 0.67.1
+
+* updated to HavlockV's version 0.6.7
+
+version 0.66.1
+
+* updated to HavlockV's version 0.6.6
+
+version 0.65.1
+
+* updated to HavlockV's version 0.6.5
+
+version 0.64.3
+
+* added missing lines
+
+version 0.64.2
+
+* minor changes to the translation
+
+version 0.64.1
+
+* updated to HavlockV's version 0.6.4
+* localization of the entity type names (Actors/Items) in the selection box when creating them
+
+version 0.62.1
+
+* updated to HavlockV's version 0.6.2
+
+version 0.60.1
+
+* updated to HavlockV's version 0.6.0
+* intended for use with FoundryVTT 0.8.x
+
+version 0.59.1
+
+* updated to HavlockV's version 0.5.9
+
+version 0.58.4
+
+* Additional updates to sv.json
+* version 0.58.x will most likely be the last one for Foundry VTT 0.7.x
+
+version 0.58.3
+
+* updated sv.json with missing labels
+
+version 0.58.2
+
+* fixed minor typo
+
+version 0.58.1
+
+* updated to HavlockV's version 0.5.8
 
 version 0.57.2
 
